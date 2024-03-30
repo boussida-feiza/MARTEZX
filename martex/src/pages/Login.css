@@ -1,0 +1,34 @@
+.img-fluid{
+    width: 70%;
+ padding-top: 10%;
+}
+.titel{
+  margin-right: 10%;
+}
+.b1{
+   
+}
+.forme{
+  padding-bottom: 50%;
+  text-align: center;
+margin-top: 10%;
+}
+
+.form-control{
+    width: 70%;
+   border-color: blue;
+   
+}
+.F2{
+    margin-top: 5%;
+}
+.style{
+background-color: light;
+}
+.d1{
+    background-color: rgb(255, 250, 243);
+box-shadow: rgba(117, 132, 155, 150) -10px 10px 10px;
+width: 30%;
+margin-top: 5%;
+margin-left: 5%;
+}
